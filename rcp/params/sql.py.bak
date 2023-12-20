@@ -1,0 +1,4 @@
+sql_user="rcp"
+sql_password="PDArcpSERWIS"
+sql_host="p.pdaserwis.pl"
+sql_database="RFID"
